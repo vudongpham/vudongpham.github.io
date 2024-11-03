@@ -18,6 +18,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Test text 123
-
 I am currently working in <a href='https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/'>Earth Observation and Geoinformation Science Lab Institute for Geography and Geology, University of Greifswald, Germany</a> 
