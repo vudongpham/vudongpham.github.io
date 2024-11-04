@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <i>(I have 5 cats)</i>
+subtitle: 
 
 profile:
   align: right
@@ -14,7 +14,9 @@ profile:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 ---
 
-I am currently working in <a href='https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/'>Earth Observation and Geoinformation Science Lab Institute for Geography and Geology, University of Greifswald, Germany</a> 
+🧑‍💼 I am currently working in <a href='https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/'>Earth Observation and Geoinformation Science Lab Institute for Geography and Geology, University of Greifswald, Germany</a> 
+
+📖 Check out my list of publications: <a href='/publications' target="_blank">Here</a> 
