@@ -4,6 +4,8 @@ title: About
 permalink: /
 subtitle: 
 
+nav_order: 1
+
 profile:
   align: right
   image: meo_vang_small.jpg
@@ -17,6 +19,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-🧑‍💼 I am currently working in <a href='https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/'>Earth Observation and Geoinformation Science Lab Institute for Geography and Geology, University of Greifswald, Germany</a> 
+<p style="line-height: 2; font-size: 18px;" >Hi, I am Dong, currently working as PhD student in <a href='https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/'>Earth Observation and Geoinformation Science Lab Institute for Geography and Geology, University of Greifswald, Germany</a> </p>
 
-📖 Check out my list of publications: <a href='/publications' target="_blank">Here</a> 
+<p style="line-height: 2; font-size: 18px;" >📖 Check out my list of publications: <a href='/publications' target="_blank">Here</a>  </p>
