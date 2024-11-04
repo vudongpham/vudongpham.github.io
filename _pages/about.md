@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <i>(I have 5 cats)</i>
 
@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>I am bad at math.</p>
-    <p>I ask codes from smart people on the Internet.</p>
-    <p>Voilà, I am good at math!</p>
+
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
