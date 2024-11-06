@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /team/
-title: My team
+permalink: /cats/
+title: Cats
 description: This is my team for non-research activities
 nav: true
 nav_order: 5
@@ -12,14 +12,14 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: left
     image: meo_vang_prof.jpg
-    content: about_einstein.md
+    content: cat_descriptions/yellow.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <h4><b>Yellow</b></h4>
   
   - align: right
     image: meo_trau_prof.jpg
-    content: about_einstein.md
+    content: cat_descriptions/buffalo.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <h4><b>Buffalo</b></h4>
