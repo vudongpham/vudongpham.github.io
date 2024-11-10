@@ -1,4 +1,4 @@
-My name is Buffalo because I have a big nose like a 🐃. I weirdly enjoy butt patting👏. I am in charge for security 🛡️ in the house (because other cats are lazy piece of sh*ts 😠). I only eat dried foods because dried foods are for real men (I am fixed btw...)
+My name is <b>Buffalo</b> because I have a big nose like a 🐃. I weirdly enjoy butt patting👏. I am in charge for security 🛡️ in the house (because other cats are lazy piece of sh*ts 😠). I only eat dried foods because dried foods are for real men (I am fixed btw...)
 
 If you are the following:
 

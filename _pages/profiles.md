@@ -26,21 +26,21 @@ profiles:
 
   - align: left
     image: meo_chip_prof.jpg
-    content: cat_descriptions/temp.md
+    content: cat_descriptions/chip.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <h4><b>Chip</b></h4>
 
   - align: right
     image: meo_cu_prof.jpg
-    content: cat_descriptions/temp.md
+    content: cat_descriptions/cucu.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <h4><b>Cucu</b></h4>
 
   - align: left
     image: meo_shrimp_prof.jpg
-    content: cat_descriptions/temp.md
+    content: cat_descriptions/shrimp.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <h4><b>Shrimp</b></h4>
