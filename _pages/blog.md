@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /Blogs/
+title: Blogs
 nav: true
-nav_order: 1
+nav_order: 10
 pagination:
   enabled: true
-  collection: posts
+  collection: posts_temp
   permalink: /page/:num/
   per_page: 5
   sort_field: date
