@@ -1,12 +1,12 @@
 ---
 layout: default
-permalink: /Blogs/
+permalink: /blogs/
 title: Blogs
 nav: true
-nav_order: 10
+nav_order: 2
 pagination:
   enabled: true
-  collection: posts_temp
+  collection: posts
   permalink: /page/:num/
   per_page: 5
   sort_field: date
@@ -14,7 +14,7 @@ pagination:
   trail:
     before: 1 # The number of links before the current page
     after: 3 # The number of links after the current page
-published: false
+published: true
 ---
 
 <div class="post">

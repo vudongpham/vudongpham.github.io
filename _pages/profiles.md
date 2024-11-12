@@ -4,7 +4,7 @@ permalink: /cats/
 title: Cats
 description: This is my team for non-research activities
 nav: true
-nav_order: 5
+nav_order: 6
 published: true
 
 profiles:
