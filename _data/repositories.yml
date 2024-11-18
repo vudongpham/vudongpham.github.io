@@ -6,4 +6,5 @@ repo_description_lines_max: 2
 github_repos:
   - vudongpham/vudongpham.github.io
   - vudongpham/EOLabDatacubeReport
+  - vudongpham/TimeSeriesViewer
 
