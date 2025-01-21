@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 
 <p style="line-height: 2; font-size: 18px;" >My works focus on big EO data for large-scale mappings 🗺️, with parallelizations 🖧, and efficient processings ⚙️! Especially, I like to work with historical EO data, when things were noisy and ugly. That's why my entire PhD dedicated to <b><i>Transferability</i></b> and <b><i>Generalization</i></b>, so that I could bring technologies from the present to map back to the past ⌛.</p>
 
-<p style="line-height: 2; font-size: 18px;" >📖 Check out my list of <b><a href='/publications' target="_blank">Publications</a></b></p>
+<p style="line-height: 2; font-size: 18px;" >📖 Check out my <b><a href='/publications' target="_blank">Works</a></b></p>
 
 <p style="line-height: 2; font-size: 18px;" >🐱 Tired of works? Check out my <b><a href='/cats' target="_blank">Cats</a></b></p>
 
