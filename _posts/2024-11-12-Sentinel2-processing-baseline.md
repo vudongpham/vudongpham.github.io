@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are geolocation errors fixed in Sentinel-1 Collection 1?
+title: Are geolocation errors fixed in Sentinel-2 Collection 1?
 date: 2024-11-12 11:46:00
 description: In this post I compared the processing baselin 05.00 and 02.06
 tags: formatting images
