@@ -14,9 +14,9 @@ images:
 
 ### 0. Readme
 
-- FORCE Documentation: <a href='https://force-eo.readthedocs.io/en/latest/'>Link</a>
-- FORCE Github repo : <a href='https://github.com/davidfrantz/force'>Link</a>
-- How to access uni-greifswald brain cluster : <a href='https://rz.uni-greifswald.de/en/services/general/miscellaneous/high-performance-computing/login-to-hpc-brain-cluster/'>Link</a>
+- FORCE Documentation: <a href='https://force-eo.readthedocs.io/en/latest/' target="_blank">Link</a>
+- FORCE Github repo : <a href='https://github.com/davidfrantz/force' target="_blank">Link</a>
+- How to access uni-greifswald brain cluster : <a href='https://rz.uni-greifswald.de/en/services/general/miscellaneous/high-performance-computing/login-to-hpc-brain-cluster/' target="_blank">Link</a>
   
 
 ### 1. Pull FORCE docker via singularity in HPC
@@ -34,7 +34,7 @@ singularity exec ~/force_latest.sif force-info
 
 ### 3. Overview of existing data in the datacube:
 
-Web viewer of EOLab datacube: <a href='https://vudongpham.github.io/EOLabDatacubeReport/'>Link</a>
+Web viewer of EOLab datacube: <a href='https://vudongpham.github.io/EOLabDatacubeReport/' target="_blank">Link</a>
 
 ### 4. Access datacube and run FORCE:
 
