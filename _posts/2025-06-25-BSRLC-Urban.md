@@ -15,6 +15,7 @@ images:
 {% include figure.liquid loading="eager" path="assets/img/posts/bsrlc_urban/i1.jpg" class="img-fluid rounded z-depth-1" %}
 
 This post summarises my presentation at the <a target="_blank" href="https://lps25.esa.int/">Living Planet Symposium 2025</a> (Vienna, 25 June 2025).
+- 💾 **Data repository:** <https://zenodo.org/records/14497660> 
 
 ### **Mapping high-resolution (10 m) urban areas over two decades with Landsat data—Is it possible?**
 
