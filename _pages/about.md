@@ -43,7 +43,7 @@ I am a remote sensing scientist specialising in **continental-scale land-cover m
   - TensorFlow / Keras ★★★★☆ – *rapid prototyping*
 - **Remote-Sensing & GIS**  
   - GDAL / Rasterio ★★★★★ – *data ingest & preprocessing*  
-  - CDSE OData API ★★★★☆ – I developed search/download tool <a target="_blank" href='https://github.com/vudongpham/CDSE_Sentinel2_downloader'>CDSE-S2 Downloader</a>
+  - CDSE OData API ★★★★☆ – I developed a search/download tool <a target="_blank" href='https://github.com/vudongpham/CDSE_Sentinel2_downloader'>CDSE-S2 Downloader</a>
 - **Data Engineering & Cloud**  
   - FORCE datacube ★★★★★ – <a target="_blank" href='https://vudongpham.github.io/EOLabDatacubeReport/'>large-scale processing</a> 
   - Docker / Singularity ★★★★★ – *reproducible environments*  
