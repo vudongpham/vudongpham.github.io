@@ -1,20 +1,20 @@
 ---
 layout: post
-title: BSRLC-U - The first tri-annual 10-m maps of urban Residential, Industrial and Open spaces for the Baltic Sea region over two decades (2000 – 2021)
-date: 2025-06-25 00:00:00
-description: Urban mappping with super-resolution and center-patch classification
-tags: super-resolution center-patch classification built-up-types
+title: BSRLC+ The first annual 30-m land cover maps with detailed crop types and peatlands in the Baltic Sea region over two decades (2000 – 2022)
+date: 2025-06-26 00:00:00
+description: Time-series land cover with detailed crop types and peatlands
+tags: Temporal-encoding Deep-learning
 categories: sample-posts
-thumbnail: assets/img/posts/bsrlc_urban/thumbnail.webp
+thumbnail: assets/img/posts/bsrlc_plus/thumbnail.webp
 map: true
 images:
   compare: true
   slider: true
 
 ---
-{% include figure.liquid loading="eager" path="assets/img/posts/bsrlc_urban/i1.jpg" class="img-fluid rounded z-depth-1" %}
+{% include figure.liquid loading="eager" path="assets/img/posts/bsrlc_plus/i1.webp" class="img-fluid rounded z-depth-1" %}
 
-This post summarises my presentation at the <a target="_blank" href="https://lps25.esa.int/">Living Planet Symposium 2025</a> (Vienna, 25 June 2025).
+This post summarises my presentation at the <a target="_blank" href="https://lps25.esa.int/">Living Planet Symposium 2025</a> (Vienna, 26 June 2025).
 
 ### **Mapping high-resolution (10 m) urban areas over two decades with Landsat data—Is it possible?**
 
