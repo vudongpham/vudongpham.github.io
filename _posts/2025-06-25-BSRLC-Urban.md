@@ -5,7 +5,7 @@ date: 2025-03-25 00:00:00
 description: Urban mappping with super-resolution and center-patch classification
 tags: super-resolution center-patch classification built-up-types
 categories: sample-posts
-thumbnail: assets/img/posts/bsrlc_urban/s2_thumbnail.png
+thumbnail: assets/img/posts/bsrlc_urban/thumbnail.webp
 map: true
 images:
   compare: true
