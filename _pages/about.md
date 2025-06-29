@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 ## **Overview**
 
-I am a remote sensing scientist specialising in **continental-scale land-cover mapping** and **deep-learning methodology development**. Currently, I work at the [EO Lab, University of Greifswald](https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/). I obtained my Ph.D. in 2025 (*magna cum laude*), where my research focused on novel techniques to map land cover consistently across large spatial and temporal domains.
+I am a remote sensing scientist specializing in **continental-scale land-cover mapping** and **deep-learning methodology development**. Currently, I work at the [EO Lab, University of Greifswald](https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/). I obtained my Ph.D. in 2025 (*magna cum laude*), where my research focused on novel techniques to map land cover consistently across large spatial and temporal domains.
 
 ## **Expertise at a Glance**
 - **6 + years** working with large-scale land cover applications with Earth observation data using <b><a target="_blank" href='https://vudongpham.github.io/EOLabDatacubeReport/'>Data Cube</a></b>.
