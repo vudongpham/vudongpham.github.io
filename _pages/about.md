@@ -28,7 +28,7 @@ I am a remote sensing scientist specializing in **continental-scale land-cover m
 - Developing and applying <b><a target="_blank" href='https://vudongpham.github.io/publications/'>Deep-learning</a></b> algorithms with EO data.
 - Land cover applications: <b>Urban</b>, <b>Forests</b>, <b>Croplands</b>, <b>Wetland vegetations.</b>
 - Deploying workflows on High Performance Clusters (<b>HPC</b>), as well as cloud plattform such as <b><a target="_blank" href='https://code-de.org/en/'>CODE-DE</a></b>. 
-- I am the creater of:
+- I am the creator of:
 
 <b><a target="_blank" href='https://vudongpham.github.io/blog/2025/BSRLC-Plus'>BSRLC+</a></b>: the first large-scale, annual land cover dataset in Europe that contains detailed information on croplands and peatlands. For this application, I developed a universal method called <b>Temporal Encoding</b> for handling irregular time-series remote sensing data for long-term mapping.
 
