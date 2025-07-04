@@ -30,7 +30,7 @@ I am a remote sensing scientist specializing in **continental-scale land-cover m
 - Deploying workflows on High Performance Clusters (<b>HPC</b>), as well as cloud plattform such as <b><a target="_blank" href='https://code-de.org/en/'>CODE-DE</a></b>. 
 - I am the creator of:
 
-<b><a target="_blank" href='https://vudongpham.github.io/blog/2025/BSRLC-Plus'>BSRLC+</a></b>: the first large-scale, annual land cover dataset in Europe that contains detailed information on croplands and peatlands. For this application, I developed a universal method called <b>Temporal Encoding</b> for handling irregular time-series remote sensing data for long-term mapping.
+<b><a target="_blank" href='https://vudongpham.github.io/blog/2025/BSRLC-Plus'>BSRLC+</a></b>: the first large-scale, annual land cover dataset in Europe that contains detailed information on croplands and peatlands. For this application, I developed a universal method called <b><a target="_blank" href='https://www.sciencedirect.com/science/article/pii/S1569843224002218'>Temporal Encoding</a></b> for handling irregular time-series remote sensing data for long-term mapping.
 
 <b><a target="_blank" href='https://vudongpham.github.io/blog/2025/BSRLC-Urban'>BSRLC-U</a></b>: the first tri-annual 10-m maps of built-up types over two decades using Landsat and Sentinel-2. To create this dataset, I developed a deep learning <b>super-resolution</b> approach to upscale historical Landsat data to 10 m.
 
