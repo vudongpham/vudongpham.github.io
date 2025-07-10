@@ -18,9 +18,10 @@ The new dataset has improved geolocation accuracy, however, how much it is bette
 
 This post compared the old baseline dataset (<b>N0206</b>) and new dataset (<b>N0500</b>) when generating datacube.
 <br><br>
-## Images download
 
-```geojson
+<!-- ## Images download -->
+
+<!-- ```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -34,7 +35,7 @@ This post compared the old baseline dataset (<b>N0206</b>) and new dataset (<b>N
     }
   ]
 }
-```
+``` -->
 <br>
 Sentinel-2 A,B level-1C was downloaded from <a href='https://dataspace.copernicus.eu'>https://dataspace.copernicus.eu/</a>, using OData API.
 
