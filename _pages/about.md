@@ -19,36 +19,45 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-## **Overview**
+### Overview
 
-I am a remote sensing scientist specializing in **continental-scale land-cover mapping** and **deep-learning methodology development**. Currently, I work at the [EO Lab, University of Greifswald](https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/). I obtained my Ph.D. in 2025, where my research focused on novel techniques to map land cover consistently across large spatial and temporal domains.
+I am a remote sensing scientist focused on **continental-scale land-cover mapping** and **deep learning for Earth observation**. I work at the [EO Lab, University of Greifswald](https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/). I obtained my PhD in 2025, developing methods to map land cover consistently across large spatial and temporal domains.
 
-## **Expertise at a Glance**
-- **6+ years** working with large-scale land cover applications with Earth observation data using <b><a target="_blank" href='https://vudongpham.github.io/EOLabDatacubeReport/'>Data Cube</a></b>.
-- Developing and applying <b><a target="_blank" href='https://vudongpham.github.io/publications/'>Deep-learning</a></b> algorithms with EO data.
-- Land cover applications: <b>Urban</b>, <b>Forests</b>, <b>Croplands</b>, <b>Wetland vegetations.</b>
-- Deploying workflows on High Performance Clusters (<b>HPC</b>), as well as cloud plattform such as <b><a target="_blank" href='https://code-de.org/en/'>CODE-DE</a></b>. 
-- I am the creator of:
+My work bridges research and engineering: I design models and datasets that transfer across years and sensors, and I deploy them on HPC and cloud platforms for production use.
 
-<b><a target="_blank" href='https://vudongpham.github.io/blog/2025/BSRLC-Plus'>BSRLC+</a></b>: the first large-scale, annual land cover dataset in Europe that contains detailed information on croplands and peatlands. For this application, I developed a universal method called <b><a target="_blank" href='https://www.sciencedirect.com/science/article/pii/S1569843224002218'>Temporal Encoding</a></b> for handling irregular time-series remote sensing data for long-term mapping.
+## Highlights
 
-<b><a target="_blank" href='https://vudongpham.github.io/blog/2025/BSRLC-Urban'>BSRLC-U</a></b>: the first tri-annual 10-m maps of built-up types over two decades using Landsat and Sentinel-2. To create this dataset, I developed a deep learning <b>super-resolution</b> approach to upscale historical Landsat data to 10 m, combined with novel mapping method <b>center-patch classification</b> for urban applications.
+- **BSRLC+** — Annual, large-scale land‑cover dataset for Europe with cropland and peatland detail (2000–2022). Introduced **Temporal Encoding** to handle irregular EO time series for long‑term mapping. [Learn more](https://vudongpham.github.io/blog/2025/BSRLC-Plus) · [Method](https://www.sciencedirect.com/science/article/pii/S1569843224002218)
+- **BSRLC‑U** — Tri‑annual 10‑m built‑up type maps over two decades using Landsat and Sentinel‑2. Combined **super‑resolution** for historical Landsat with **center‑patch classification** for urban mapping. [Learn more](https://vudongpham.github.io/blog/2025/BSRLC-Urban)
 
-## **Technical Skills**
-- **Programming & Scripting**  
-  - Python ★★★★★ – *pandas, rasterio, PyTorch, matplotlib* 
-  - Javascript ★★★★☆ – *leafletJS, ReactJS, frontend* 
-  - Bash / Shell ★★★★☆ – *HPC job automation, Docker, Git*
-- **Deep-Learning Frameworks**  
-  - PyTorch ★★★★★ – *CNNs for EO, 1D-CNN, 2D-CNN, LSTM, Transformers*  
-  - TensorFlow / Keras ★★★★☆ – *rapid prototyping*
-- **Remote-Sensing & GIS**  
-  - GDAL / Rasterio ★★★★★ – *data ingest & preprocessing*  
-  - CDSE OData API ★★★★☆ – I developed a search/download tool <a target="_blank" href='https://github.com/vudongpham/CDSE_Sentinel2_downloader'>CDSE-S2 Downloader</a>
-- **Data Engineering & Cloud**  
-  - FORCE datacube ★★★★★ – <a target="_blank" href='https://vudongpham.github.io/EOLabDatacubeReport/'>large-scale processing</a> 
-  - Docker / Singularity ★★★★★ – *reproducible environments*  
-  - Slurm ★★★★☆ – *cluster scheduling*  
+## Expertise at a glance
 
-## **Scientific works**
-List of <a target="_blank" href='https://vudongpham.github.io/publications/'>Scientific publications</a> 
+- 6+ years building continent‑scale land‑cover products on FORCE datacubes and cloud platforms. [Report](https://vudongpham.github.io/EOLabDatacubeReport/)
+- Deep learning with EO time series; transfer across sensors/years; fractional mapping; super‑resolution.
+- Production pipelines on **Slurm/HPC** and **cloud platforms** such as [CODE‑DE](https://code-de.org/en/).
+- Application domains: **Urban**, **Forests**, **Croplands**, **Wetland vegetation**.
+
+## Technical skills
+
+**Programming & Data**
+- **Python — Advanced** (pandas, rasterio, PyTorch, matplotlib); packaging, testing, CLI tools.
+- **JavaScript/TypeScript — Proficient** (React, Leaflet) for web viewers and demos.
+- **Bash — Proficient** for automation; **Git/GitHub** for CI/CD.
+
+**ML & Time Series**
+- **PyTorch — Advanced** (CNNs/Transformers for EO, 1D/2D CNNs, LSTM).
+- **TensorFlow/Keras — Proficient** for rapid prototyping.
+
+**Remote Sensing & GIS**
+- **GDAL/Rasterio — Advanced** for ingest and preprocessing.
+- **FORCE datacube — Advanced** for large‑scale processing. [Report](https://vudongpham.github.io/EOLabDatacubeReport/)
+- **CDSE OData API — Proficient**; author of the **CDSE‑S2 Downloader**. [Code](https://github.com/vudongpham/CDSE_Sentinel2_downloader)
+
+**Data Engineering & Platforms**
+- **Containers** (Docker/Singularity) for reproducible environments.
+- **Scheduling** with Slurm; monitoring and scaling on HPC.
+- **Cloud** deployments on CODE‑DE and similar platforms.
+
+## Publications
+
+See the full list of [publications](https://vudongpham.github.io/publications/).
