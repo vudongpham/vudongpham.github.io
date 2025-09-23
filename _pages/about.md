@@ -39,24 +39,24 @@ My work bridges research and engineering: I design models and datasets that tran
 
 ## Technical skills
 
-**Programming & Data**
-- **Python — Advanced** (pandas, rasterio, PyTorch, matplotlib); packaging, testing, CLI tools.
-- **JavaScript/TypeScript — Proficient** (React, Leaflet) for web viewers and demos.
-- **Bash — Proficient** for automation; **Git/GitHub** for CI/CD.
+**Programming & Data**  
+Python (pandas, rasterio, PyTorch, matplotlib); packaging, testing, CLIs.  
+JavaScript/TypeScript (React, Leaflet) for web viewers and demos.  
+Bash; Git/GitHub (CI/CD).
 
-**ML & Time Series**
-- **PyTorch — Advanced** (CNNs/Transformers for EO, 1D/2D CNNs, LSTM).
-- **TensorFlow/Keras — Proficient** for rapid prototyping.
+**ML & Time Series**  
+PyTorch (CNNs/Transformers for EO, 1D/2D CNNs, LSTM).  
+TensorFlow/Keras for rapid prototyping.
 
-**Remote Sensing & GIS**
-- **GDAL/Rasterio — Advanced** for ingest and preprocessing.
-- **FORCE datacube — Advanced** for large‑scale processing. [Report](https://vudongpham.github.io/EOLabDatacubeReport/)
-- **CDSE OData API — Proficient**; author of the **CDSE‑S2 Downloader**. [Code](https://github.com/vudongpham/CDSE_Sentinel2_downloader)
+**Remote Sensing & GIS**  
+GDAL/Rasterio for ingest/preprocessing.  
+FORCE datacube for large-scale processing. [Report](https://vudongpham.github.io/EOLabDatacubeReport/)  
+CDSE OData API; author of **CDSE-S2 Downloader**. [Code](https://github.com/vudongpham/CDSE_Sentinel2_downloader)
 
-**Data Engineering & Platforms**
-- **Containers** (Docker/Singularity) for reproducible environments.
-- **Scheduling** with Slurm; monitoring and scaling on HPC.
-- **Cloud** deployments on CODE‑DE and similar platforms.
+**Data Engineering & Platforms**  
+Containers (Docker/Singularity).  
+Slurm scheduling; monitoring and scaling on HPC.  
+Cloud deployments on CODE-DE and related platforms.
 
 ## Publications
 
