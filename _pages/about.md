@@ -20,7 +20,7 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ## Overview
-Remote sensing scientist, PhD, specializing in **continental-scale land-cover mapping** and **deep learning for Earth observation**. I work at the [EO Lab, University of Greifswald](https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/) and focus on consistent land-cover mapping across large spatial and temporal domains. I bridge research and engineering by designing transferable models/datasets and deploying them on HPC and cloud platforms.
+Hi I'm Dong, PhD, specializing in **continental-scale land-cover mapping** and **deep learning for Earth observation**. I work at the [EO Lab, University of Greifswald](https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/) and focus on consistent land-cover mapping across large spatial and temporal domains. I bridge research and engineering by designing transferable models/datasets and deploying them on HPC and cloud platforms.
 
 ## Highlights
 - **BSRLC+** — Annual Europe-wide land-cover dataset (2000–2022) with cropland and peatland detail; introduced **Temporal Encoding** for irregular EO time series. [Learn more](https://vudongpham.github.io/blog/2025/BSRLC-Plus) · [Method](https://www.sciencedirect.com/science/article/pii/S1569843224002218)
