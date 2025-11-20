@@ -5,7 +5,7 @@ title: Cats
 description: This is my team for non-research activities
 nav: true
 nav_order: 7
-published: true
+published: false
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
