@@ -32,6 +32,7 @@ social: true
   .about-lead {
     font-size: 1.08rem;
     margin-bottom: 25px;
+    text-align: justify;
   }
 
   .keyword {
@@ -73,31 +74,70 @@ social: true
     margin-top: 12px;
   }
 
-  /* Highlights table styling */
+ /* Highlights section */
+  .highlights-section {
+    margin-top: 24px;
+  }
+
+  .highlights-subtitle {
+    font-size: 0.98rem;
+    margin-bottom: 8px;
+    color: #4b5563;
+  }
+
+  /* Clean table styling */
   .highlights-table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 12px;
-    font-size: 1.02rem;
+    font-size: 0.98rem;
+  }
+
+  .highlights-table thead {
+    background: #f8f9fc;
   }
 
   .highlights-table th {
     text-align: left;
-    background: #f5f7fa;
-    padding: 10px;
+    padding: 10px 12px;
     font-weight: 600;
-    border-bottom: 2px solid #d0d7e2;
+    border-bottom: 1px solid #d4d9e3;
+    color: #6b7280;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
   }
 
   .highlights-table td {
-    padding: 10px;
+    padding: 10px 12px;
     vertical-align: top;
-    border-bottom: 1px solid #e5e8ef;
+    border-bottom: 1px solid #eceff4;
   }
 
-  .highlights-table tr:hover {
-    background: #f2f6ff;
+  .highlights-table tbody tr:nth-child(odd) {
+    background: #fafbff;
   }
+
+  .highlights-table tbody tr:hover {
+    background: #f2f5ff;
+  }
+
+  .highlights-table td:first-child {
+    font-weight: 600;
+    color: #1d4ed8;
+    width: 20%;
+  }
+
+  .highlights-table td a.about-link {
+    font-weight: 600;
+  }
+
+  /* Mobile */
+  @media (max-width: 768px) {
+    .highlights-table {
+      font-size: 0.92rem;
+    }
+  }
+
 </style>
 
 <section class="page-about">
@@ -111,52 +151,51 @@ social: true
 
   <hr class="section-divider" />
 
-  
-
   <section class="highlights-section">
     <h2 class="section-title">Highlights</h2>
-    <p class="about-lead">I am the creator of:</p>
-    <table class="highlights-table">
-      <thead>
-        <tr>
-          <th>Method</th>
-          <th>Description</th>
-          <th>Publication</th>
-          <th>Application</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Multi-classes Neural Network regression</td>
-          <td>This method quantifies land cover fractions using Neural Network and regression-based unmixing.</td>
-          <td><a href="https://doi.org/10.1016/j.rse.2024.114206" class="about-link" target="_blank" rel="noopener noreferrer">DOI</a></td>
-          <td>
-            <a href="https://doi.org/10.1016/j.rse.2025.114740" class="about-link" target="_blank" rel="noopener noreferrer">1</a>,
-            <a href="https://doi.org/10.1016/j.rse.2025.114646" class="about-link" target="_blank" rel="noopener noreferrer">2</a>
-          </td>
-        </tr>
-        <tr>
-          <td>Temporal Encoding and deep learning augmentations</td>
-          <td>
-            This method encodes raw time-series, combined with augmetation methods to enhance land cover mapping's transferability. Read more in this 
-            <a href="/blog/2025/BSRLC-Plus/" class="about-link" target="_blank" rel="noopener noreferrer">blog.</a>
-          </td>
-          <td><a href="https://doi.org/10.1016/j.jag.2024.103867" class="about-link" target="_blank" rel="noopener noreferrer">DOI</a></td>
-          <td><a href="https://doi.org/10.1038/s41597-024-04062-w" class="about-link" target="_blank" rel="noopener noreferrer">1</a></td>
-        </tr>
-        <tr>
-          <td>Super-resolution and center-patch classification</td>
-          <td>
-            The super-resolution methods enhances the spatial resolution of historical Landsat data to 10-m. The center-patch classification learns the contexts of the surrounding to classify the center pixel. Read more in this 
-            <a href="/blog/2025/BSRLC-Urban/" class="about-link" target="_blank" rel="noopener noreferrer">blog.</a>
-          </td>
-          <td>DOI</td>
-          <td><a href="https://zenodo.org/records/17413880" class="about-link" target="_blank" rel="noopener noreferrer">1</a></td>
-        </tr>
-      </tbody>
-    </table>
+    <p class="about-lead highlights-subtitle">I am the creator of:</p>
+    <div class="highlights-table-wrapper">
+      <table class="highlights-table">
+        <thead>
+          <tr>
+            <th>Method</th>
+            <th>Description</th>
+            <th>Publication</th>
+            <th>Application</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Multi-classes Neural Network regression</td>
+            <td>This method quantifies land cover fractions using Neural Network and regression-based unmixing.</td>
+            <td><a href="https://doi.org/10.1016/j.rse.2024.114206" class="about-link" target="_blank" rel="noopener noreferrer">DOI</a></td>
+            <td>
+              <a href="https://doi.org/10.1016/j.rse.2025.114740" class="about-link" target="_blank" rel="noopener noreferrer">1</a>,
+              <a href="https://doi.org/10.1016/j.rse.2025.114646" class="about-link" target="_blank" rel="noopener noreferrer">2</a>
+            </td>
+          </tr>
+          <tr>
+            <td>Temporal Encoding and deep learning augmentations</td>
+            <td>
+              This method encodes raw time-series, combined with augmetation methods to enhance land cover mapping's transferability. Read more in this 
+              <a href="/blog/2025/BSRLC-Plus/" class="about-link" target="_blank" rel="noopener noreferrer">blog.</a>
+            </td>
+            <td><a href="https://doi.org/10.1016/j.jag.2024.103867" class="about-link" target="_blank" rel="noopener noreferrer">DOI</a></td>
+            <td><a href="https://doi.org/10.1038/s41597-024-04062-w" class="about-link" target="_blank" rel="noopener noreferrer">1</a></td>
+          </tr>
+          <tr>
+            <td>Super-resolution and center-patch classification</td>
+            <td>
+              The super-resolution methods enhances the spatial resolution of historical Landsat data to 10-m. The center-patch classification learns the contexts of the surrounding to classify the center pixel. Read more in this 
+              <a href="/blog/2025/BSRLC-Urban/" class="about-link" target="_blank" rel="noopener noreferrer">blog.</a>
+            </td>
+            <td>DOI</td>
+            <td><a href="https://zenodo.org/records/17413880" class="about-link" target="_blank" rel="noopener noreferrer">1</a></td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
   </section>
-
   <hr class="section-divider" />
 
   <section class="research-section">
