@@ -12,22 +12,22 @@ social: true # includes social icons at the bottom of the page
 ---
 
 ## About Me
-I am researcher, PhD, specializing in **continental-scale land-cover mapping** and **deep learning for Earth observation**. I work at the [EO Lab, University of Greifswald](https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/) and focus on consistent land-cover mapping across large spatial and temporal domains. I bridge research and engineering by designing transferable models/datasets and deploying them on HPC and cloud platforms.
+I am a researcher and PhD specializing in **continental-scale land-cover mapping** and **deep learning for Earth observation**. At the [EO Lab, University of Greifswald](https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/), I work on scalable and consistent land-cover characterization across extensive spatial and temporal domains. My work integrates research and engineering by developing transferable geospatial models and datasets and deploying them on high-performance computing (HPC) and cloud infrastructures.
 
 ---
 
 ## Research Interests
 
-- Large-scale remote sensing applications  
-- Methodology developments
-- Machine learning for geospatial data  
-- Transferability and Domain adaptation
-- High-performance and distributed computing 
-
+- Large-scale remote sensing and geospatial analytics
+- Methodological and algorithmic development
+- Machine learning for Earth observation
+- Model transferability and domain adaptation
+- High-performance and distributed computing
+  
 ---
 
 ## Publications
-[View my up-to-date publications: ](https://vudongpham.github.io/publications/)
+[Access my current publication list](https://vudongpham.github.io/publications/)
 
 
 
