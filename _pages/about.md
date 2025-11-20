@@ -139,7 +139,7 @@ social: true
           <td>Temporal Encoding and deep learning augmentations</td>
           <td>
             This method encodes raw time-series, combined with augmetation methods to enhance land cover mapping's transferability. Read more in this 
-            <a href="https://vudongpham.github.io/blog/2025/BSRLC-Plus/" class="about-link" target="_blank" rel="noopener noreferrer">blog.</a>
+            <a href="/blog/2025/BSRLC-Plus/" class="about-link" target="_blank" rel="noopener noreferrer">blog.</a>
           </td>
           <td><a href="https://doi.org/10.1016/j.jag.2024.103867" class="about-link" target="_blank" rel="noopener noreferrer">DOI</a></td>
           <td><a href="https://doi.org/10.1038/s41597-024-04062-w" class="about-link" target="_blank" rel="noopener noreferrer">1</a></td>
@@ -148,7 +148,7 @@ social: true
           <td>Super-resolution and center-patch classification</td>
           <td>
             The super-resolution methods enhances the spatial resolution of historical Landsat data to 10-m. The center-patch classification learns the contexts of the surrounding to classify the center pixel. Read more in this 
-            <a href="https://vudongpham.github.io/blog/2025/BSRLC-Urban/" class="about-link" target="_blank" rel="noopener noreferrer">blog.</a>
+            <a href="/blog/2025/BSRLC-Urban/" class="about-link" target="_blank" rel="noopener noreferrer">blog.</a>
           </td>
           <td>DOI</td>
           <td><a href="https://zenodo.org/records/17413880" class="about-link" target="_blank" rel="noopener noreferrer">1</a></td>
@@ -175,7 +175,7 @@ social: true
   <section class="publications-section">
     <h2 class="section-title">Publications</h2>
     <p class="publications-link">
-      <a href="https://vudongpham.github.io/publications/" class="about-link" target="_blank" rel="noopener noreferrer">
+      <a href="/publications/" class="about-link" target="_blank" rel="noopener noreferrer">
         See my current publication list
       </a>
     </p>
