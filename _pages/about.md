@@ -33,6 +33,10 @@ social: true
     font-size: 1.08rem;
     margin-bottom: 25px;
     text-align: justify;
+    text-justify: inter-word;
+    text-align-last: left;
+    hyphens: auto;
+    max-width: 65ch;
   }
 
   .keyword {
