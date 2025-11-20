@@ -115,7 +115,7 @@ social: true
 
   <section class="highlights-section">
     <h2 class="section-title">Highlights</h2>
-    <p class="about-lead">I am the creator of these methods:</p>
+    <p class="about-lead">I am the creator of:</p>
     <table class="highlights-table">
       <thead>
         <tr>
