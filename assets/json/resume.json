@@ -34,9 +34,18 @@
       "location": "Greifswald, Germany",
       "url": "https://www.uni-greifswald.de/",
       "area": "Remote sensing",
+      "studyType": "PostDoc",
+      "startDate": "2025-05-01",
+      "endDate": "Present"
+    },
+    {
+      "institution": "University of Greifswald, Germany",
+      "location": "Greifswald, Germany",
+      "url": "https://www.uni-greifswald.de/",
+      "area": "Remote sensing",
       "studyType": "PhD",
       "startDate": "2022-01-01",
-      "endDate": "2025-01-01"
+      "endDate": "2025-05-01"
     },
     {
       "institution": "VNU University of Science, Hanoi, Vietnam",
@@ -84,11 +93,11 @@
   "languages": [
     {
       "language": "English",
-      "fluency": "Fluent (C2)"
+      "fluency": "Professional (C2)"
     },
     {
       "language": "German",
-      "fluency": "A2"
+      "fluency": "B1"
     },
     {
       "language": "Vietnamese",
