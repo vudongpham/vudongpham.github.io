@@ -35,8 +35,6 @@ social: true
     text-align: justify;
     text-justify: inter-word;
     text-align-last: left;
-    hyphens: auto;
-    max-width: 65ch;
   }
 
   .keyword {
