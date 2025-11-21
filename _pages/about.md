@@ -14,7 +14,6 @@ social: true
   .page-about {
     font-family: "Inter", "Roboto", "Helvetica Neue", Arial, sans-serif;
     line-height: 1.7;
-    color: #222;
     max-width: 900px;
     margin: 0 auto;
     padding: 10px 5px 40px 5px;
@@ -26,7 +25,6 @@ social: true
     margin-top: 40px;
     margin-bottom: 15px;
     letter-spacing: 0.02em;
-    color: #0b0b0b;
   }
 
   .about-lead {
@@ -39,20 +37,14 @@ social: true
 
   .keyword {
     font-weight: 600;
-    color: #0047cc;
   }
 
   .about-link {
     font-weight: 500;
-    color: #0055dd;
     text-decoration: none;
-    border-bottom: 1px solid #cfe0ff;
     transition: 0.2s;
   }
-  .about-link:hover {
-    color: #003a99;
-    border-bottom-color: #99baff;
-  }
+
 
   .research-list {
     font-size: 1.05rem;
@@ -67,7 +59,6 @@ social: true
   .section-divider {
     border: none;
     height: 1px;
-    background: linear-gradient(to right, #ccc, #eee, #ccc);
     margin: 30px 0;
   }
 
@@ -84,7 +75,6 @@ social: true
   .highlights-subtitle {
     font-size: 0.98rem;
     margin-bottom: 8px;
-    color: #4b5563;
   }
 
   /* Clean table styling */
@@ -95,16 +85,11 @@ social: true
     font-size: 0.98rem;
   }
 
-  .highlights-table thead {
-    background: #f8f9fc;
-  }
 
   .highlights-table th {
     text-align: left;
     padding: 10px 12px;
     font-weight: 600;
-    border-bottom: 1px solid #d4d9e3;
-    color: #6b7280;
     letter-spacing: 0.02em;
     white-space: nowrap;
   }
@@ -112,20 +97,11 @@ social: true
   .highlights-table td {
     padding: 10px 12px;
     vertical-align: top;
-    border-bottom: 1px solid #eceff4;
   }
 
-  .highlights-table tbody tr:nth-child(odd) {
-    background: #fafbff;
-  }
-
-  .highlights-table tbody tr:hover {
-    background: #f2f5ff;
-  }
 
   .highlights-table td:first-child {
     font-weight: 600;
-    color: #1d4ed8;
     width: 20%;
   }
 
@@ -149,6 +125,19 @@ social: true
     <p class="about-lead">
       I am a researcher and PhD specializing in <span class="keyword">continental-scale land-cover mapping</span> and <span class="keyword">deep learning for Earth observation</span>. At the <a class="about-link" href="https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/" target="_blank" rel="noopener noreferrer">EO Lab, University of Greifswald</a>, I work on scalable and consistent land-cover characterization across extensive spatial and temporal domains. My work integrates research and engineering by developing transferable geospatial models and datasets and deploying them on high-performance computing (HPC) and cloud infrastructures.
     </p>
+  </section>
+
+  <hr class="section-divider" />
+
+  <section class="research-section">
+    <h2 class="section-title">Research Interests</h2>
+    <ul class="research-list">
+      <li>Large-scale remote sensing and geospatial analytics</li>
+      <li>Methodological and algorithmic development</li>
+      <li>Machine learning for Earth observation</li>
+      <li>Model transferability and domain adaptation</li>
+      <li>High-performance and distributed computing</li>
+    </ul>
   </section>
 
   <hr class="section-divider" />
@@ -200,18 +189,6 @@ social: true
   </section>
   <hr class="section-divider" />
 
-  <section class="research-section">
-    <h2 class="section-title">Research Interests</h2>
-    <ul class="research-list">
-      <li>Large-scale remote sensing and geospatial analytics</li>
-      <li>Methodological and algorithmic development</li>
-      <li>Machine learning for Earth observation</li>
-      <li>Model transferability and domain adaptation</li>
-      <li>High-performance and distributed computing</li>
-    </ul>
-  </section>
-
-  <hr class="section-divider" />
 
   <section class="publications-section">
     <h2 class="section-title">Publications</h2>
