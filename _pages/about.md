@@ -48,9 +48,12 @@ social: true
 
   .research-list {
     font-size: 1.05rem;
-    padding-left: 20px;
     margin-top: 5px;
     margin-bottom: 25px;
+    column-count: 2;
+    column-gap: 2rem; /* adjust spacing */
+    list-style-position: outside;
+    padding-left: 1.2rem;
   }
   .research-list li {
     margin-bottom: 6px;
@@ -132,9 +135,10 @@ social: true
   <section class="research-section">
     <h2 class="section-title">Research Interests</h2>
     <ul class="research-list">
-      <li>Large-scale remote sensing and geospatial analytics</li>
+      <li>Large-scale remote sensing application</li>
       <li>Methodological and algorithmic development</li>
       <li>Machine learning for Earth observation</li>
+      <li>Time-series analysis</li>
       <li>Model transferability and domain adaptation</li>
       <li>High-performance and distributed computing</li>
     </ul>
