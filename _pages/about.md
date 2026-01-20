@@ -184,7 +184,7 @@ social: true
               The super-resolution methods enhances the spatial resolution of historical Landsat data to 10-m. The center-patch classification learns the contexts of the surrounding to classify the center pixel. Read more in this 
               <a href="/blog/2025/BSRLC-Urban/" class="about-link" target="_blank" rel="noopener noreferrer">blog.</a>
             </td>
-            <td>DOI</td>
+            <td><a href="https://doi.org/10.1016/j.rse.2026.115251" class="about-link" target="_blank" rel="noopener noreferrer">DOI</a></td>
             <td><a href="https://zenodo.org/records/17413880" class="about-link" target="_blank" rel="noopener noreferrer">1</a></td>
           </tr>
         </tbody>
