@@ -198,7 +198,7 @@ social: true
     <h2 class="section-title">Publications</h2>
     <p class="publications-link">
       <a href="/publications/" class="about-link" target="_blank" rel="noopener noreferrer">
-        See my current publication list
+        See my publication list
       </a>
     </p>
   </section>
