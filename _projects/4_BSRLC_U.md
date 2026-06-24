@@ -1,6 +1,6 @@
 ---
 layout: page
-title: BSRLC Plus
+title: BSRLC-U
 description: Baltic Sea Region land cover Urban
 img: assets/img/project/bsrlc_urban_snapshot.webp
 importance: 1
