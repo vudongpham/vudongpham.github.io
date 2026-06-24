@@ -2,7 +2,7 @@
 layout: page
 title: BSRLC Plus
 description: Baltic Sea Region land cover Plus
-img: assets/img/project/bsrlc_plus_snapshot.jpg
+img: assets/img/project/bsrlc_plus_snapshot.webp
 importance: 1
 # category:
 giscus_comments: true
