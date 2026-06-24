@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: elephant.webp
+  image: yellow.webp
   image_circular: false # crops the image to make it circular
 
 
