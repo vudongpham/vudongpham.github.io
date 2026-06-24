@@ -4,10 +4,10 @@ title: About
 permalink: /
 subtitle: 
 
-profile:
-  align: left
-  image: yellow.webp
-  image_circular: true # crops the image to make it circular
+# profile:
+#   align: left
+#   image: yellow.webp
+#   image_circular: true # crops the image to make it circular
 
 
 nav_order: 1
@@ -23,6 +23,27 @@ social: true
     max-width: 900px;
     margin: 0 auto;
     padding: 10px 5px 40px 5px;
+  }
+
+
+  .about-section {
+    display: flex;
+    align-items: stretch;
+    gap: 24px;
+  }
+
+  .about-image {
+    width: 220px;
+    min-width: 220px;
+    height: auto;
+    align-self: stretch;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+
+  .about-section .about-lead {
+    flex: 1;
+    margin-bottom: 0;
   }
 
   .section-title {
@@ -120,6 +141,16 @@ social: true
 
   /* Mobile */
   @media (max-width: 768px) {
+    .about-section {
+      flex-direction: column;
+    }
+
+    .about-image {
+      width: 100%;
+      min-width: 0;
+      max-height: 320px;
+    }
+
     .highlights-table {
       font-size: 0.92rem;
     }
@@ -130,6 +161,11 @@ social: true
 <section class="page-about">
 
   <section class="about-section">
+    <img
+      class="about-image"
+      src="/assets/img/yellow.webp"
+      alt="About image placeholder"
+    />
     <p class="about-lead">
       I am a researcher and PhD specializing in <span class="keyword">continental-scale land-cover mapping</span> and <span class="keyword">deep learning for Earth observation</span>. At the <a class="about-link" href="https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/" target="_blank" rel="noopener noreferrer">EO Lab, University of Greifswald</a>, I work on scalable and consistent land-cover characterization across extensive spatial and temporal domains. My work integrates research and engineering by developing transferable geospatial models and datasets and deploying them on high-performance computing (HPC) and cloud infrastructures.
     </p>
