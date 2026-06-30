@@ -161,11 +161,11 @@ social: true
 <section class="page-about">
 
   <section class="about-section">
-    <img
+    <!-- <img
       class="about-image"
       src="/assets/img/yellow.webp"
       alt="About image placeholder"
-    />
+    /> -->
     <p class="about-lead">
       I am a researcher and PhD specializing in <span class="keyword">continental-scale land-cover mapping</span> and <span class="keyword">deep learning for Earth observation</span>. At the <a class="about-link" href="https://geo.uni-greifswald.de/en/chairs/geographie/translate-to-english-fernerkundung-und-geoinformationsverarbeitung/" target="_blank" rel="noopener noreferrer">EO Lab, University of Greifswald</a>, I work on scalable and consistent land-cover characterization across extensive spatial and temporal domains. My work integrates research and engineering by developing transferable geospatial models and datasets and deploying them on high-performance computing (HPC) and cloud infrastructures.
     </p>
