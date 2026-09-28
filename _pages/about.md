@@ -218,6 +218,7 @@ social: true
             </td>
             <td><a href="https://doi.org/10.1016/j.jag.2024.103867" class="about-link" target="_blank" rel="noopener noreferrer">DOI</a></td>
             <td><a href="https://doi.org/10.1038/s41597-024-04062-w" class="about-link" target="_blank" rel="noopener noreferrer">1</a></td>
+            <td><a href="https://doi.org/10.1038/s41597-026-08375-w" class="about-link" target="_blank" rel="noopener noreferrer">2</a></td>
           </tr>
           <tr>
             <td>Super-resolution and center-patch classification</td>
